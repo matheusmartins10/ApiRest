@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "ecommerce",
+            "driver": "PostgreSQL",
+            "name": "api-rest-pg",
+            "password": "admin",
+            "pgOptions": {
+                "ssl": {}
+            },
+            "port": 3003,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "postgres"
+        }
+    ]
+}

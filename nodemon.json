@@ -1,0 +1,11 @@
+{
+    "env": {
+        "POSTGRES_USER": "postgres",
+        "POSTGRES_PASSWORD": "admin",
+        "POSTGRES_DATABASE": "ecommerce",
+        "POSTGRES_HOST": "localhost",
+        "POSTGRES_PORT": 3003,
+
+        "JWT_KEY": "passwordsecrerhvfierhgeighqieroigje"
+    }
+}
